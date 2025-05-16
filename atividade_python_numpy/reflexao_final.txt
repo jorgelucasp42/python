@@ -1,0 +1,4 @@
+1. Facilidade: Qual item você achou mais simples de resolver? Por quê?
+2. Desafio: Qual item foi mais difícil? Quais dúvidas surgiram?
+3. Aprendizado: Que conceito de Python ou NumPy você sente que dominou melhor?
+4. Próximos passos: O que pretende praticar para melhorar nos pontos difíceis?

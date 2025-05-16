@@ -45,9 +45,7 @@ def main():
             print("Matriz de distâncias:\n", matriz_distancias_euclidianas())
 
         elif escolha == "7":
-            original, centralizado = centralizar_dados_temperatura()
-            print("Original:", original)
-            print("Centralizado:", centralizado)
+            centralizar_dados_temperatura()
 
         elif escolha == "8":
             a, b, comp, total = comparar_arrays_aleatorios()
