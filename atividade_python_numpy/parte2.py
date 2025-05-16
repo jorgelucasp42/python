@@ -21,9 +21,17 @@ def matriz_distancias_euclidianas():
     return matriz.astype(float)
 
 def centralizar_dados_temperatura():
-    array = np.random.rand(12) * 30  # Exemplo: temperaturas entre 0 e 30
+    # Temperaturas entre 15°C e 35°C
+    array = np.random.uniform(15, 35, size=12)
     media = array.mean()
     centralizado = array - media
+    
+    # Exibição formatada
+    print("Temperaturas originais (°C):")
+    print(np.round(array, 2))
+    print("\nTemperaturas centralizadas (°C):")
+    print(np.round(centralizado, 2))
+
     return array, centralizado
 
 def comparar_arrays_aleatorios():

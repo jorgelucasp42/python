@@ -1,8 +1,16 @@
 # PARTE 1 - Python Básico
 
+import unicodedata
+
 def conta_vogais(texto):
+    # Remove acentos e normaliza para vogais simples
+    texto_normalizado = unicodedata.normalize('NFD', texto)
+    texto_sem_acentos = ''.join(
+        char for char in texto_normalizado if unicodedata.category(char) != 'Mn'
+    )
+    # Contar apenas as vogais
     vogais = 'aeiouAEIOU'
-    return sum(1 for char in texto if char in vogais)
+    return sum(1 for char in texto_sem_acentos if char in vogais)
 
 def flatten(lista):
     resultado = []
