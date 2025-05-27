@@ -1,0 +1,30 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+target      MAISSSTSGTSSSFPSRTTVMLLLFFFAASVGITDAQVGVCYGMQGNNLPPVSEVIALYK	60
+4HPG        ------------------------------------QVGVCYGMQGNNLPPVSEVIALYK	24
+                                                ************************
+
+target      KSNITRMRIYDPNRAVLEALRGSNIELILGVPNSDLQSLTNPSNAKSWVQKNVRGFWSSV	120
+4HPG        KSNITRMRIYDPNQAVLEALRGSNIELILGVPNSDLQSLTNPSNAKSWVQKNVRGFWSSV	84
+            *************:**********************************************
+
+target      LFRYIAVGNEISPVNRGTAWLAQFVLPAMRNIHDAIRSAGLQDQIKVSTAIDLTLVGNSY	180
+4HPG        RFRYIAVGNEISPVNRGTAWLAQFVLPAMRNIHDAIRSAGLQDQIKVSTAIDLTLVGNSY	144
+             ***********************************************************
+
+target      PPSAGAFRDDVRSYLDPIIGFLSSIRSPLLANIYPYFTYAYNPRDISLPYALFTSPSVVV	240
+4HPG        PPSAGAFRDDVRSYLNPIIRFLSSIRSPLLANIYPYFTYAGNPRDISLPYALFTSPSVVV	204
+            ***************:*** ******************** *******************
+
+target      WDGQRGYKNLFDATLDALYSALERASGGSLEVVVSESGWPSAGAFAATFDNGRTYLSNLI	300
+4HPG        WDGQRGYKNLFDATLDALYSALERASGGSLEVVVSESGWPSAGAFAATFDNGRTYLSNLI	264
+            ************************************************************
+
+target      QHVKGGTPKRPNRAIETYLFAMFDENKKQPEVEKHFGLFFPNKWQKYNLNFSAEKNWDIS	360
+4HPG        QHVKRGTPKRPKRAIETYLFAMFDENKKQPEVEKHFGLFFPNKWQKYNLNFS--------	316
+            **** ******:****************************************        
+
+target      TEHNATILFLKSDM	374
+4HPG        --------------	316
+                          
